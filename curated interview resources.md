@@ -1,4 +1,6 @@
+## 💼 Below URL has comprehensive platform designed to empower individuals on their career journey. They offer a rich repository of 900,000 questions spanning 5,000 fields, accompanied by essential resources to enhance your professional success.
 
+* *URL*: https://github.com/HireAbo/awesome-interview-questions-5000-jobs
 
 ## 💼 Business & Finance
 
