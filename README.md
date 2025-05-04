@@ -1,4 +1,4 @@
-Our repo is a Centralized hub for individuals navigating the job market. It offers a curated collection of resources tailored for job seekers, including:
+This repo is a Centralized hub for individuals navigating the job market. It offers a curated collection of resources tailored for job seekers, including:
 
 Curated Interview Resources: A compilation of interview questions and preparation materials across various industries.
 
