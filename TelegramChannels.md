@@ -19,3 +19,6 @@ https://t.me/CodeWithKT
 
 notes
 https://t.me/Dincnotes
+
+any ntes
+https://t.me/Cod_Init
