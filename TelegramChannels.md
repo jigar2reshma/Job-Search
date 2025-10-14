@@ -16,3 +16,6 @@ https://t.me/Codewithnotes9
 
 tech study
 https://t.me/CodeWithKT
+
+notes
+https://t.me/Dincnotes
